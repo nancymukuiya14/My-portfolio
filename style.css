@@ -34,7 +34,7 @@ a {
 
     
 }
-img {
+.firstpic img {
     border-radius: 100px;
     /* float: right; */
     margin-right:300px;
@@ -45,15 +45,13 @@ img {
 body {
     background-color: navy;
 }
-/* .btnbtn-outline-infobtn-lgbtn-block{
-    padding-left:10rem;
-    padding-right: 10rem;
-} */
 .card {
-    margin-left: 100px;
-    width: 50%;
+    left: -50px;
+    width: 60%;
     top: -150px;
-    padding: 10px;
+    padding: 50px;
+    float: right;
+
 }
 h1 {
     text-align: center;
@@ -61,21 +59,18 @@ h1 {
     padding-top: 160px;
     margin-left: 180px;
 }
-#draw {
+#draw img {
     right:-200px;
     position: relative;
     top: -470px;
 }
 h2 {
     color: white;
-    margin-bottom: -500px;
+    margin-bottom:-400px;
     margin-left: 300px;
     text-align: center;
 }
 .card2 {
-    margin-top:500px;
+    margin-top:400px;
+    width: 100%;
 }
-/* section {
-    background-color: white;
-} */
-
