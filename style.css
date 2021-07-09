@@ -67,8 +67,8 @@ h1 {
 h2 {
     color: white;
     margin-bottom:-400px;
-    margin-left: 40px;
-    text-align: center;
+    /* margin-left: px; */
+    text-align: left;
     padding: 30px;
 }
 .card2 {
@@ -99,3 +99,36 @@ h3 {
     justify-content: space-around;
     padding: 50px;
 }
+.nancy {
+    margin-top:150px;
+    height: 200px;
+    width: 100%;
+    background-color:rgb(226, 226, 9)
+}
+h6 {
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+h4 {
+    color: white;
+    font-size: 2rem;
+}
+.form-control {
+    border: none;
+    border-bottom: 3px solid rgb(180, 180, 180);
+}
+input::placeholder, textarea::placeholder {
+    font-size: 15px;
+    font-style: italic;
+}
+header {
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    position: relative;
+    top:100px;
+    right:50px;
+}
+    /* margin-top: 200px; */
+    /* padding-top: 200px;
