@@ -45,10 +45,10 @@ a {
 body {
     background-color: navy;
 }
-.card {
+.card1 {
     left: -50px;
     width: 60%;
-    top: -150px;
+    margin-top:-150px;
     padding: 50px;
     float: right;
 
@@ -73,4 +73,13 @@ h2 {
 .card2 {
     margin-top:400px;
     width: 100%;
+}
+#empty {
+    height: 200px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.card {
+    bottom:-500px;
+
 }
