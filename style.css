@@ -67,19 +67,35 @@ h1 {
 h2 {
     color: white;
     margin-bottom:-400px;
-    margin-left: 300px;
+    margin-left: 40px;
     text-align: center;
+    padding: 30px;
 }
 .card2 {
     margin-top:400px;
     width: 100%;
 }
-#empty {
+/* #empty {
     height: 200px;
     width: 100%;
     background-color: whitesmoke;
-}
+} */
 .card {
-    bottom:-500px;
+    bottom:-70px;
 
+}
+.portfolio {
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    font-size:3rem;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.part2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
 }
