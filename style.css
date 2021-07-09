@@ -82,6 +82,10 @@ h2 {
 } */
 .card {
     bottom:-70px;
+    box-shadow: 5px 10px 6px 4px rgba(162,165,169,0.75);
+}
+/* .card :hover {
+    box-shadow: 5px 10px 6px 4px rgba(162,165,169,0.75); */
 
 }
 .portfolio {
@@ -94,19 +98,19 @@ h3 {
     color: white;
     padding-top: 50px;
 }
-.part2 {
+/* .part2 {
     display: flex;
     justify-content: space-around;
     padding: 50px;
-}
+} */
 .nancy {
     margin-top:150px;
     height: 200px;
     width: 100%;
-    background-color:rgb(226, 226, 9)
+    background-color:white
 }
 h6 {
-    color: black;
+    color: yellow;
     font-size: 3rem;
     text-align: center;
 }
@@ -128,6 +132,6 @@ header {
     color: white;
     position: relative;
     top:50px;
-    right:30px;
+    right:10px;
 }
   
