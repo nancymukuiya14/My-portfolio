@@ -9,8 +9,11 @@
 * HTML.
 * CSS
 * Bootstrap.
-# Contact Information.
-If you have a project in mind or a question about my projects. Email me nancykigotho14@gmail.com.
+### How to reach me;
+* IG @hey_its_nancie
+* twitter @mukuiyanancy
+* linkedin @nancykigotho
+* Email nancykigotho14@gmail.com
 # Requirements.
 * Git
 * Web browser.
