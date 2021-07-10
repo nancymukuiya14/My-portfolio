@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: 0px;
+    margin: 0px;
+    padding:0px;
 }
 
 .logo {
@@ -8,6 +8,8 @@ body {
     font-size: xx-large;
     padding: 5px;
     margin-left: 70px;
+    font-style: italic;
+    font-weight: bolder;
 }
 .links {
     display: flex;
@@ -67,19 +69,14 @@ h1 {
 h2 {
     color: white;
     margin-bottom:-400px;
-    /* margin-left: px; */
-    text-align: left;
+    text-align:center;
     padding: 30px;
+    font-size: 3rem;
 }
 .card2 {
     margin-top:400px;
     width: 100%;
 }
-/* #empty {
-    height: 200px;
-    width: 100%;
-    background-color: whitesmoke;
-} */
 .card {
     bottom:-70px;
     box-shadow: 0px 8px 0px 4px rgba(162,165,169,0.75);
@@ -105,12 +102,12 @@ h3 {
 }
 .nancy {
     margin-top:150px;
-    height: 200px;
+    height: 300px;
     width: 100%;
-    background-color:yellow;
+    background-color:rgb(243, 203, 26);
 }
 h6 {
-    color: white;
+    color: black;
     font-size: 3rem;
     text-align: center;
     padding: 30px;
@@ -122,22 +119,71 @@ h6 {
 }
 h4 {
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
 }
-/* .form-control {
+.form-control {
     border: none;
     border-bottom: 3px solid rgb(180, 180, 180);
-} */
+}
 input::placeholder, textarea::placeholder {
     font-size: 15px;
     font-style: italic;
 }
 header {
     font-size: 3rem;
-    text-align: center;
     color: white;
     position: relative;
     top:50px;
-    right:10rem;
+    text-align: center;
 }
-  
+.one {
+    color: rgb(158, 150, 150);
+    font-size: 2rem;
+    font-family: sans-serif;
+    margin-top:-420px;
+    float: right;
+    padding: 3rem;
+}
+.two {
+    display: flex;
+    justify-content: space-around;
+}
+.info {
+    padding: 10px;
+    color: white;
+    font-size: 2rem;
+}
+.location {
+    padding: 10px;
+}
+.number {
+    padding: 10px;
+}
+.email {
+    padding: 10px;
+}
+.website {
+    padding: 10px;
+}
+.follow {
+    padding: 10px;
+    color: white;
+}
+footer {
+    background-color: rgb(2, 2, 51);
+    color: white;
+    font-size: larger;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    height: 50px;
+    margin-top: 150px;
+    text-align: center;
+    padding-top: 10px;
+}
+span {
+    text-decoration: underline;
+    color: rgb(1, 1, 43);
+    font-size: 2rem;
+}
+  /* *{
+      border: 1px dashed line;
+  } */
