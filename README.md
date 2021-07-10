@@ -1,7 +1,7 @@
 # Project Name: My Portfolio.
 # Developed by: Nancy Kigotho.
 # Description.
-* It entails a brief about me section,the projects that i hev done in the past,my skill set and lastly my contact information incase someone wants to hire me.
+* It entails a brief about me section,the projects that i have done in the past,my skill set and lastly my contact information incase someone wants to hire me.
 # Instructions
 * To view the projects just click on the view project button and to see the whole project.
 * incase you have any questions or comments fill in the form given and i will get back to you as soon as possible.
@@ -16,6 +16,9 @@ If you have a project in mind or a question about my projects. Email me nancykig
 * Web browser.
 * Github.
 # Github Link.
+* Below is a link to view my project.
+
+https://nancymukuiya14.github.io/My-portfolio/
 
 # Images
 <img src="./Assets/1st.png">
