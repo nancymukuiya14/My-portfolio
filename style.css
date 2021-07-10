@@ -182,6 +182,31 @@ span {
     color: rgb(1, 1, 43);
     font-size: 2rem;
 }
+@media (max-width:1118px) {
+    .logo {
+        left: 8px;
+    }
+}
+/* @media screen (max-width:1500px) {
+        
+    .links {
+        font-size: 20px;
+    }
+} */
+/* @media (max-width:944px) {
+    nav ol .links {
+        font-size:17px;
+    }
+@media (max-width:860px) {
+    ol {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background-color: navy;
+    }
+     */
+
+
   /* *{
       border: 1px dashed line;
   } */
