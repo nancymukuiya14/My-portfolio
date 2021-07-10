@@ -1,0 +1,212 @@
+body {
+    margin: 0px;
+    padding:0px;
+}
+
+.logo {
+    color: yellow;
+    font-size: xx-large;
+    padding: 5px;
+    margin-left: 70px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.links {
+    display: flex;
+    margin-left: 650px;
+    color: white;
+    padding-top: 10px;
+}
+.icons {
+    display: flex;
+    background-color: navy;
+}
+.links :hover {
+    color: yellow;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.frontpage .intro {
+    padding-top: 100px;
+    font-size: 2rem;
+    color: white;
+    padding-left: 15rem;
+}
+.firstpic img {
+    border-radius: 100px;
+    /* float: right; */
+    margin-right:100px;
+    top:-390px;
+    position: relative;
+    float:right
+}
+body {
+    background-color: navy;
+}
+.card1 {
+    left: -50px;
+    width: 60%;
+    margin-top:-150px;
+    padding: 50px;
+    float: right;
+
+}
+h1 {
+    text-align: center;
+    color: white;
+    padding-top: 160px;
+    margin-left: 180px;
+}
+#draw img {
+    right:-200px;
+    position: relative;
+    top: -470px;
+}
+h2 {
+    color: white;
+    margin-bottom:-400px;
+    text-align:center;
+    padding: 30px;
+    font-size: 3rem;
+}
+.card2 {
+    margin-top:400px;
+    width: 100%;
+}
+.card {
+    bottom:-70px;
+    box-shadow: 0px 8px 0px 4px rgba(162,165,169,0.75);
+}
+.card :hover {
+    box-shadow: 0px 8px 0px 4px rgba(162,165,169,0.75);
+    
+}
+.portfolio {
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    font-size:3rem;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.part2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.nancy {
+    margin-top:150px;
+    height: 300px;
+    width: 100%;
+    background-color:rgb(243, 203, 26);
+}
+h6 {
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+    padding: 30px;
+}
+.btn1 {
+   margin-left:15rem;
+   background-color: yellow;
+
+}
+h4 {
+    color: white;
+    font-size: 1rem;
+}
+.form-control {
+    border: none;
+    border-bottom: 3px solid rgb(180, 180, 180);
+}
+input::placeholder, textarea::placeholder {
+    font-size: 15px;
+    font-style: italic;
+}
+header {
+    font-size: 3rem;
+    color: white;
+    position: relative;
+    top:50px;
+    text-align: center;
+}
+.one {
+    color: rgb(158, 150, 150);
+    font-size: 2rem;
+    font-family: sans-serif;
+    margin-top:-420px;
+    float: right;
+    padding: 3rem;
+}
+.two {
+    display: flex;
+    justify-content: space-around;
+}
+.info {
+    padding: 10px;
+    color: white;
+    font-size: 2rem;
+}
+.location {
+    padding: 10px;
+}
+.number {
+    padding: 10px;
+}
+.email {
+    padding: 10px;
+}
+.website {
+    padding: 10px;
+}
+.follow {
+    padding: 10px;
+    color: white;
+}
+footer {
+    background-color: rgb(2, 2, 51);
+    color: white;
+    font-size: larger;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    height: 50px;
+    margin-top: 150px;
+    text-align: center;
+    padding-top: 10px;
+}
+span {
+    text-decoration: underline;
+    color: rgb(1, 1, 43);
+    font-size: 2rem;
+}
+@media (max-width:1118px) {
+    .logo {
+        left: 8px;
+    }
+}
+/* @media screen (max-width:1500px) {
+        
+    .links {
+        font-size: 20px;
+    }
+} */
+/* @media (max-width:944px) {
+    nav ol .links {
+        font-size:17px;
+    }
+@media (max-width:860px) {
+    ol {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background-color: navy;
+    }
+     */
+
+
+  /* *{
+      border: 1px dashed line;
+  } */
